@@ -1,4 +1,5 @@
-.. -*- mode: rst -*-
+Forked from pypy code to fix a bug where it would not install on python 2.7
+
 
 ========
 Svglib
